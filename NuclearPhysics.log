@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.8)  17 JAN 2022 23:34
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.8)  22 JAN 2022 22:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1519,23 +1519,16 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 [1
 
 
-]) (./Consist.tex
-第\nobreakspace {}二\nobreakspace {}章 2.
-[2
-
-
 ]
 Overfull \hbox (76.82411pt too wide) has occurred while \output is active
 [][]
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 55.
-[3]) (./Property.tex
-第\nobreakspace {}三\nobreakspace {}章 3.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 12.
-[4
+(Font)              scaled to size 8.0pt on input line 43.
+[2]) (./Consist.tex
+第\nobreakspace {}二\nobreakspace {}章 2.
+[3
 
 
 ]
@@ -1543,17 +1536,29 @@ Overfull \hbox (76.82411pt too wide) has occurred while \output is active
 [][]
  []
 
-[5]) (./NuclearPhysics.aux)
+[4]) (./Property.tex
+第\nobreakspace {}三\nobreakspace {}章 3.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 12.
+[5
+
+
+]
+Overfull \hbox (76.82411pt too wide) has occurred while \output is active
+[][]
+ []
+
+[6]) (./NuclearPhysics.aux)
 Package rerunfilecheck Info: File `NuclearPhysics.out' has not changed.
 (rerunfilecheck)             Checksum: 7AB8012345FD4D5A30C6A3991B3F97E5;2575.
  ) 
 Here is how much of TeX's memory you used:
- 39665 strings out of 476919
- 825914 string characters out of 5821841
- 1472785 words of memory out of 5000000
- 58831 multiletter control sequences out of 15000+600000
+ 39677 strings out of 476919
+ 826708 string characters out of 5821841
+ 1473785 words of memory out of 5000000
+ 58843 multiletter control sequences out of 15000+600000
  430538 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  118i,12n,136p,581b,777s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on NuclearPhysics.pdf (7 pages).
+Output written on NuclearPhysics.pdf (8 pages).
