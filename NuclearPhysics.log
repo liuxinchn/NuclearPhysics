@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.8)  26 JAN 2022 00:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.8)  7 FEB 2022 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1569,7 +1569,7 @@ Package rerunfilecheck Info: File `NuclearPhysics.out' has not changed.
 Here is how much of TeX's memory you used:
  39738 strings out of 476919
  828855 string characters out of 5821841
- 1473782 words of memory out of 5000000
+ 1473785 words of memory out of 5000000
  58890 multiletter control sequences out of 15000+600000
  436158 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
