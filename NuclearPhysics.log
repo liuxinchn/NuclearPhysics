@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.8)  21 FEB 2022 23:31
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.8)  28 FEB 2022 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1574,24 +1574,33 @@ Overfull \hbox (76.82411pt too wide) has occurred while \output is active
 
 [9]) (./Combine.tex
 第\nobreakspace {}四\nobreakspace {}章 4.
-Missing character: There is no γ ("3B3) in font ntx-Regular-tlf-t1!
 Missing character: There is no ε ("3B5) in font ntx-Regular-tlf-t1!
 Missing character: There is no  ("F065) in font ntx-Regular-tlf-t1!
 Missing character: There is no  ("F065) in font ntx-Regular-tlf-t1!
-) [10
+File: figure//fig003.png Graphic file (type bmp)
+<figure//fig003.png>
+[10
 
 
-] (./NuclearPhysics.aux)
+]
+File: figure//fig004.png Graphic file (type bmp)
+<figure//fig004.png>
+)
+Overfull \hbox (76.82411pt too wide) has occurred while \output is active
+[][]
+ []
+
+[11] (./NuclearPhysics.aux)
 Package rerunfilecheck Info: File `NuclearPhysics.out' has not changed.
 (rerunfilecheck)             Checksum: A858D7176014E95F17A74CB1861F16AE;3003.
  ) 
 Here is how much of TeX's memory you used:
- 39763 strings out of 476919
- 830342 string characters out of 5821841
+ 39779 strings out of 476919
+ 830608 string characters out of 5821841
  1475785 words of memory out of 5000000
- 58912 multiletter control sequences out of 15000+600000
+ 58926 multiletter control sequences out of 15000+600000
  436158 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  118i,12n,136p,581b,777s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on NuclearPhysics.pdf (12 pages).
+Output written on NuclearPhysics.pdf (13 pages).

@@ -34,4 +34,4 @@
 \contentsline {chapter}{\numberline {4}原子核的结合能与液滴模型}{10}{chapter.0.4}%
 \contentsline {section}{\numberline {4.1}原子核的结合能}{10}{section.0.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}质量与能量的一般关系}{10}{subsection.0.4.1.1}%
-\contentsline {section}{\numberline {4.2}液滴模型}{10}{section.0.4.2}%
+\contentsline {section}{\numberline {4.2}液滴模型}{11}{section.0.4.2}%
