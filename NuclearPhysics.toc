@@ -35,3 +35,7 @@
 \contentsline {section}{\numberline {4.1}原子核的结合能}{10}{section.0.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}质量与能量的一般关系}{10}{subsection.0.4.1.1}%
 \contentsline {section}{\numberline {4.2}液滴模型}{11}{section.0.4.2}%
+\contentsline {chapter}{\numberline {5}衰变规律}{12}{chapter.0.5}%
+\contentsline {section}{\numberline {5.1}放射性衰变的基本规律}{12}{section.0.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}放射性的一般现象}{12}{subsection.0.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}放射性衰变的指数衰减规律}{12}{subsection.0.5.1.2}%
